@@ -19,7 +19,7 @@ and press **Enter**.
 
 **Screenshot:**
 
-![2.1](./SCreenshots/2.1.png)
+![2.1](./Screenshots/2.1.png)
 
 3. This launched **Windows Defender Firewall with Advanced Security**, which is the central interface to view and manage inbound and outbound firewall rules.
 
